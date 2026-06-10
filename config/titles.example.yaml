@@ -1,0 +1,21 @@
+tier_1:
+  - Owner
+  - Founder
+  - Co-Founder
+  - CEO
+  - Managing Director
+  - General Manager
+  - Director
+tier_2:
+  - Procurement Manager
+  - Purchasing Manager
+  - Supply Chain Manager
+  - Operations Manager
+  - Project Manager
+  - Technical Manager
+  - Construction Manager
+tier_3:
+  - Sales Manager
+  - Export Manager
+  - Business Development Manager
+  - Commercial Manager

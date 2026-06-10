@@ -1,0 +1,52 @@
+campaign_name: poland_test
+countries:
+  - Poland
+keywords:
+  - Drilling Equipment
+  - Auger
+  - Bucket
+  - Core Barrel
+  - Casing
+  - Casing Shoe
+  - Casing Drive Adapter
+  - Tremie Set
+  - Continuous Flight Auger
+  - bored piling
+  - anchoring systems
+  - tunnel construction
+  - geotechnical engineering
+  - foundation construction
+  - deep excavation
+  - drilling
+  - bridge construction
+  - road construction
+  - metro construction
+  - railway construction
+limits:
+  max_companies_per_keyword: 200
+  max_people_per_company: 50
+  min_company_score: 1
+  max_total_companies: 2000
+  max_total_people_to_enrich: 2000
+titles:
+  tier_1:
+    - Owner
+    - Founder
+    - Co-Founder
+    - CEO
+    - Managing Director
+    - General Manager
+    - Director
+  tier_2:
+    - Procurement Manager
+    - Purchasing Manager
+    - Supply Chain Manager
+    - Operations Manager
+    - Project Manager
+    - Technical Manager
+    - Construction Manager
+  tier_3:
+    - Sales Manager
+    - Export Manager
+    - Business Development Manager
+    - Commercial Manager
